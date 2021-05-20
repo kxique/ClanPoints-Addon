@@ -1,0 +1,7 @@
+MySQL:
+  usar: false
+  user: 'root'
+  senha: ''
+  host: 'localhost'
+  porta: 3306
+  database: 'db'

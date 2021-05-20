@@ -1,0 +1,8 @@
+name: ClanPoints Addon
+version: ${project.version}
+main: me.caique.plugins.clanpointsaddon.ClanPointsAddon
+api-version: 1.16
+load: STARTUP
+depend: [ SimpleClans ]
+authors: [ Caique1394 ]
+description: A simple plugin that add clan points to your game. Works only with SimpleClans at moment.
